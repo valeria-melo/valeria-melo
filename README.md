@@ -1,4 +1,4 @@
-<img width="auto" src="https://user-images.githubusercontent.com/59574875/89446178-949ae980-d72a-11ea-8bc1-c65d29347f37.JPG">
+<img width="auto" src="https://user-images.githubusercontent.com/59574875/89461062-b2277d80-d741-11ea-8bcc-84efe300b901.png">
 
 
 # Valéria Melo
