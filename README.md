@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="![software-language-programmer-avatar-vector-17866110](https://user-images.githubusercontent.com/59574875/89445929-2eae6200-d72a-11ea-9801-76a6f0714100.jpg)">
 
 
 # Valéria Melo
