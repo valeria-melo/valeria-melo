@@ -10,6 +10,7 @@ Sou um FullStack Developer :computer:
  :rocket:  &nbsp; Graduanda em Informatica para Negócios na Faculdade de Tecnologia de São Paulo - FATEC
   <br/>:rocket:  &nbsp; Projeto Open Source : Digital Inovation One **Projeto DIOXExpert** (JS e REACT), Projeto de organização financeira em JAVA - Guia Bolso Developer.
  <br/> :purple_heart: &nbsp; {Reprograma} Programa de Aceleração de Carreira, com foco em Back-End JS
+  <br/> :purple_heart: &nbsp; Scrum Foundations Professional Certificate - CertiProf
  <br/> :blush: &nbsp; Posso te ajudar com Git, README, Java Script e Kotlin/Mobile
  <br/> :computer: &nbsp; Minha stack: ReactJS, JAVA, Kotlin/Mobile, POstgrSQL
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, LoL e seriados no Netflix
