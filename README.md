@@ -1,4 +1,4 @@
-<img width="auto" src="![software-language-programmer-avatar-vector-17866110](https://user-images.githubusercontent.com/59574875/89445929-2eae6200-d72a-11ea-9801-76a6f0714100.jpg)">
+<img width="auto" src="https://user-images.githubusercontent.com/59574875/89446178-949ae980-d72a-11ea-8bc1-c65d29347f37.JPG">
 
 
 # Valéria Melo
