@@ -8,7 +8,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
 :mortar_board:  &nbsp; Graduanda em Informatica para Negócios na Faculdade de Tecnologia de São Paulo - FATEC [2021]
-  <br/>:rocket:  &nbsp; Projeto Open Source : Digital Inovation One **Projeto DIOXExpert** (JS e REACT), Projeto de organização financeira em JAVA - Guia Bolso Developer.
+  <br/>:rocket:  &nbsp; Contribuição em Projetos Open Source : Digital Inovation One **Projeto DIOXExpert** (JS e REACT), Projeto de organização financeira em JAVA - Guia Bolso Developer.
  <br/> :purple_heart: &nbsp; {Reprograma} Programa de Aceleração de Carreira, com foco em Back-End JS
  <br/> :pushpin: Scrum Foundations Professional Certificate - CertiProf
  <br/> :blush: &nbsp; Posso te ajudar com Git, README, Java Script e Kotlin/Mobile
