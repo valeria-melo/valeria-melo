@@ -12,7 +12,7 @@ Sou um FullStack Developer :computer:
  <br/> :purple_heart: &nbsp; {Reprograma} Programa de Aceleração de Carreira, com foco em Back-End JS
  <br/> :pushpin: Scrum Foundations Professional Certificate - CertiProf
  <br/> :blush: &nbsp; Posso te ajudar com Git, README, Java Script e Kotlin/Mobile
- <br/> :computer: &nbsp; Minha stack: ReactJS, JAVA, Kotlin/Mobile, POstgrSQL
+ <br/> :computer: &nbsp; Minha stack:  Kotlin/Mobile, POstgrSQL
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ValeriaMelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valeriamelotech/)](https://www.linkedin.com/in/valeriamelotech/) 
 | 
