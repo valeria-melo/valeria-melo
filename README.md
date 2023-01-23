@@ -5,9 +5,9 @@
 
 
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Developer FrontEnd, desde 2018 :computer:
 
-:mortar_board:  &nbsp; Developer FrontEnd, desde 2018/Informatica para Negócios na Faculdade de Tecnologia de São Paulo - FATEC 
+:mortar_board:  &nbsp;Informatica para Negócios na Faculdade de Tecnologia de São Paulo - FATEC 
   <br/>:rocket:  &nbsp; Contribuição em Projetos Open Source : Digital Inovation One **Projeto DIOXExpert** (JS e REACT), Projeto de organização financeira em JAVA - Guia Bolso Developer.
   <br/>:rocket:  &nbsp; Contribuição em Projetos Open Source : Agenda de Eventos de TI
  <br/> :purple_heart: &nbsp; Front-End: HTML, CSS/SASS, JAVASCRIPT, TYPESCRIPT, ANGULAR+, NODEJS.
